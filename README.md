@@ -8,3 +8,7 @@ Currently, they dont have an easy way to query their data, which resides in a di
 
 ## Project Description
 In this project, we will apply archetecture of data modeling with postgres and build a ELT Pipeline Using python.
+
+## Song Dataset
+The first dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about song and the artist of that song. The files are partitioned by the first three letters of each song's track ID.
+
